@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>com.atguigu.gulimail</groupId>
-    <artifactId>gulimail</artifactId>
+    <groupId>com.atguigu.guilmall</groupId>
+    <artifactId>guilmall</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>gulimail-common</artifactId>
-  <name>gulimail-common</name>
+  <artifactId>guilmall-common</artifactId>
+  <name>guilmall-common</name>
 
   <description>公共方法</description>
   
@@ -35,5 +35,13 @@
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+		<dependency>
+		    <groupId>mysql</groupId>
+		    <artifactId>mysql-connector-java</artifactId>
+		    <version>8.0.17</version>
+		</dependency>
+		
 	</dependencies>
 </project>
