@@ -12,7 +12,7 @@ import lombok.Data;
  * 
  * @author Dumplings Majesty
  * @email dumplings.majesty@gmail.com
- * @date 2022-11-23 10:21:34
+ * @date 2022-11-23 18:01:21
  */
 @Data
 @TableName("sms_seckill_session")

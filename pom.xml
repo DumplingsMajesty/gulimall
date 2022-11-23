@@ -22,4 +22,7 @@
 			</modules>
 		</profile>
  	</profiles>
+	<modules>
+		<module>gulimall-coupon</module>
+	</modules>
 </project>

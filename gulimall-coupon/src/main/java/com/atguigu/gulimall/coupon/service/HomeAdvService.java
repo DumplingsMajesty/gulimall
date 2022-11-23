@@ -11,7 +11,7 @@ import java.util.Map;
  *
  * @author Dumplings Majesty
  * @email dumplings.majesty@gmail.com
- * @date 2022-11-23 10:21:34
+ * @date 2022-11-23 18:01:21
  */
 public interface HomeAdvService extends IService<HomeAdvEntity> {
 
