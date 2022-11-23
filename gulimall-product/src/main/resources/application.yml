@@ -9,3 +9,6 @@ mybatis-plus:
    mapper-location: classpath*:/mapper/**/*.xml
    db-config: 
       id-type: auto
+      
+server: 
+   port: 10000
