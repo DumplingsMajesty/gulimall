@@ -17,8 +17,11 @@ class GulimallProductApplicationTests {
 	@Test
 	void contextLoads() {
 		
+
+
+		
 		BrandEntity brandEntity = new BrandEntity();
-		brandEntity.setName("IBM");
+		brandEntity.setName("IBM2");
 		brandService.save(brandEntity);
 		System.out.print("save success");
 	}
