@@ -23,5 +23,6 @@
  	</profiles>
 	<modules>
 		<module>gulimall-coupon</module>
+		<module>gulimall-gateway</module>
 	</modules>
 </project>
